@@ -1,0 +1,33 @@
+//originaltable1_sampledtable_result
+
+Mary,Britain,Female
+John,Norway,Male
+Murphy,Ireland,Female
+Sara,Norway,Female
+Rosa,Australia,Female
+David,France,Male
+Serena,Spain,Female
+Mike,Germany,Male
+John,USA,Male
+Taylor,USA,Male
+Jennifer,Romania,Female
+
+
+//inverted index result
+
+Mike,Germany,Male
+John,Norway,Male
+
+//HLL result
+Nate,Swiss,Male
+Rosa,Female,Australia
+An,Britain,Female
+Jack,USA,Male
+
+//IND
+John,Norway,Male
+Mike,Germany,Male
+Nate,Swiss,Male
+Rosa,Female,Australia
+An,Britain,Female
+Jack,USA,Male
